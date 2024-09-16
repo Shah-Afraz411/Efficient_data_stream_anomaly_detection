@@ -9,3 +9,9 @@ Because **Z-score with EWMA** is easy to use and works well in real-time situati
 
 
 ## Directory Structure
+    /src
+        anomaly_detection.py  # Main script
+        data_stream.py        # Data stream simulation
+        visualization.py      # Visualization tools
+    README.md                 # Explanation of the project
+    requirements.txt  
